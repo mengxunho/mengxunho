@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mengxunho
 - 👀 I’m interested in User Experience.
 - 🌱 I’m currently learning coding.
-- 📫 How to reach me ...menguxunho@g.ecc.u-tokyo.ac.jp
+- 📫 How to reach me ...mengxunho@g.ecc.u-tokyo.ac.jp
 
 <!---
 mengxunho/mengxunho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
